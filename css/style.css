@@ -1,0 +1,22 @@
+@import "lib/reset.css";
+@import "lib/typography.css";
+
+#cv { margin: 0 auto;
+    width: 900px;
+}
+
+li{ margin-bottom: 6px}
+
+a[href^="https://github.com"] {
+    padding-left: 20px;
+    background: url(../img/github.png) no-repeat center left;
+
+}a[href^="https://linkedin.com"] {
+    padding-left: 20px;
+    background: url(../img/linkedin.png) no-repeat center left;
+}
+
+a[href^="mailto:"]{
+    padding-left: 20px;
+    background: url(../img/email.png) no-repeat center left;
+}
