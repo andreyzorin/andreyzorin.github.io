@@ -11,7 +11,9 @@ a[href^="https://github.com"] {
     padding-left: 20px;
     background: url(../img/github.png) no-repeat center left;
 
-}a[href^="https://linkedin.com"] {
+}
+
+a[href^="https://linkedin.com"] {
     padding-left: 20px;
     background: url(../img/linked.png) no-repeat center left;
 }
