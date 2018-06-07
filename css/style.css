@@ -34,6 +34,11 @@ a[href^="mailto:"]{
     background: url(../img/email.png) no-repeat center left;
 }
 
+a[href^="skype:"]{
+    padding-left: 20px;
+    background: url(../img/skype.png) no-repeat center left;
+}
+
 /* Default fonts and colors. */
 body,h1,h2,h3,h4,h5,h6,p,ul,ol,dl,input,textarea { font-family: Helvetica, Arial, sans-serif; }
 
